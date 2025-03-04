@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning linear algebra, trigonometry, parametric equations, html, css, javascript, gdscript, and guitar.
 - 
 - 📫 How to reach me ... don't
-- 😄 Pronouns: thing/it/nerd
+- 😄 Pronouns: thing/it/nerd/he
 - ⚡ Fun fact: im a nerd
 
 <!---
