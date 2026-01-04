@@ -1,12 +1,6 @@
--  Hi, I’m @GreenGrenade617
-- 👀 I’m interested in procedural animation.
-- 🌱 I’m currently learning linear algebra, trigonometry, parametric equations, html, css, javascript, gdscript, and guitar.
-- 
-- 📫 How to reach me ... don't
-- 😄 Pronouns: thing/it/nerd/he
-- ⚡ Fun fact: im a nerd
+Hi, I'm Kith
 
-<!---
-GreenGrenade617/GreenGrenade617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Fueled by my love for retro/indie gaming and FOSS and open hardware.
+Love making music.
+Currently working on a pokeemerald romhack.
+
